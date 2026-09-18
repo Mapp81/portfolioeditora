@@ -22,4 +22,7 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
-public/Videos/*.mp4
+
+# videos pesados
+public/Videos/ViajeenrutaOriginal.mp4
+public/Videos/ViajarenrutaEditado.mp4
